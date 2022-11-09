@@ -1,0 +1,34 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+ul {
+    border: solid black 1px;
+}
+
+li {
+    padding: 1px;
+}
+
+li:hover {
+    color: green;
+    font-weight: bold;
+}
+
+.my-details {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main-img {
+    text-align: center;
+}
